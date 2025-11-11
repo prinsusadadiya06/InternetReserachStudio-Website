@@ -1,0 +1,16 @@
+@media (max-width:992px) {
+    .main{
+        background-color: red;
+    }
+}
+@media (max-width:768px) {
+    .main{
+        background-color: blue;
+    }
+}
+@media (max-width:576px) {
+    .main{
+        background-color: chartreuse;
+        text-align: center;
+    }
+}
